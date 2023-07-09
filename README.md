@@ -4,12 +4,27 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev25082&label=Profile%20views&color=0e75b6&style=flat" alt="dev25082" /> </p>
+👷 Student at 👨‍💻 JECRC University Pursuing B.Tech. in Computer Science and Engineering 
 
-- 🌱 I’m currently learning **React Native**
+👨‍💻 I am Web Developer Enthusiast.
 
-- 💬 Ask me about **Android,MERN**
+🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-- 📫 How to reach me **devkhandelwal25082002@gmail.com**
+🌱 Open to all Open Source Projects😋
+
+💼 I’m looking for Internship/Full-Time(PPO) Opportunities/roles.
+
+♟ I play a lot of chess & Circket.
+
+😅 Ask me about anything and everything!
+
+⚡ Fun fact 1: I am kinda boring and sometimes dumb though, but I am quite determined, focused and happy-go-luck person.
+
+🌱 I’m currently learning **React Native**
+
+💬 Ask me about **Android , MERN**
+
+📫 How to reach me **devkhandelwal25082002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
