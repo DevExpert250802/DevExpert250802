@@ -34,7 +34,7 @@
 
 <div align="center"> 
   <h2 > <b><samp>Connect with me:</samp></b></h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/devansh-khandelwal-634b09221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-khandelwal-634b09221" height="30" width="40" /></a>
 <a href="https://instagram.com/itzz.__.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz.__.dev" height="30" width="40" /></a>
 </p>
