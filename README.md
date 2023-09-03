@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h2><p align="center"><samp><b><strong> Hey there!</strong> <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px" style="mix-blend-mode:lighten"> </b></samp></p></h2>
 <p align="center"><h1 align="center"><samp>I'm Devansh Khandelwal</samp></h1></p>
@@ -10,7 +10,7 @@
 
 -👷 Student at 👨‍💻 JECRC University Pursuing B.Tech. in Computer Science and Engineering 
 
--👨‍💻 I am Web Developer Enthusiast.
+-👨‍💻 I am a Web Developer Enthusiast.
 
 -🤔 Exploring new technologies and developing software solutions and quick hacks.
 
@@ -22,7 +22,7 @@
 
 😅 Ask me about anything and everything!
 
--⚡ Fun fact: I am somewhat boring and sometimes dumb though, but I am a quite determined, focused and happy-go-luck person.
+-⚡ Fun fact: I am somewhat boring and sometimes dumb, but I am quite determined, focused and happy-go-luck person.
 
 -🌱 I’m currently learning **React Native**
 
