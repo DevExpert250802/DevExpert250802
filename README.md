@@ -56,16 +56,16 @@
 <div align="center">
  <h2>📈 GitHub Activity:</h2>
    
-  <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev25082&show_icons=true&&theme=react"
+  <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DevExpert250802&show_icons=true&&theme=react"
   <p align="center">
     <br>
      <br>
      <br>
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev25082&theme=react" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevExpert250802&theme=react" />
  <br>
      <br>
     
-  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api?username=dev25082&layout=compact&theme=react" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api?username=DevExpert250802&layout=compact&theme=react" />
 
 </p>
 </div>
