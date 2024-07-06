@@ -65,7 +65,7 @@
  <br>
      <br>
     
-  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api?username=dev25082&layout=compact&theme=react" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api?username=DevExpert250802&layout=compact&theme=react" />
 
 </p>
 </div>
